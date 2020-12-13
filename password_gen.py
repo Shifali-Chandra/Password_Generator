@@ -15,4 +15,4 @@ try:
         ch3=input("For using random special character in password enter R\nFor using specific special character input special character\nFor not using special character enter N\n")
         om.an_keypass(ch3,val)
 except:
-    print("Invalid Choice") 
+    print("Invalid Choice")
